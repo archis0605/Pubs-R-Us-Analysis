@@ -1,0 +1,7 @@
+beverage_id,beverage_name,category,alcohol_content,price_per_unit
+1,Guinness,Beer,4.2,5.99
+2,Jameson,Whiskey,40,29.99
+3,Mojito,Cocktail,12,8.99
+4,Chardonnay,Wine,13.5,12.99
+5,IPA,Beer,6.8,4.99
+6,Tequila,Spirit,38,24.99

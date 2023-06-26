@@ -1,0 +1,5 @@
+pub_id,pub_name,city,state,country
+1,"The Red Lion",London,England,"United Kingdom"
+2,"The Dubliner",Dublin,Dublin,Ireland
+3,"The Cheers Bar",Boston,Massachusetts,"United States"
+4,"La Cerveceria",Barcelona,Catalonia,Spain
